@@ -1,4 +1,4 @@
-# Multiobjective-SMA
+# Multiobjective_SMA
 
 This paper proposes a multi-objective Slime Mould Algorithm (MOSMA), a multi-objective variant of the recently-developed Slime Mould Algorithm (SMA) for 
 handling the multi-objective optimization problems in industries. Recently, for handling optimization problems, several meta-heuristic and evolutionary 
