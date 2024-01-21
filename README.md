@@ -15,3 +15,7 @@ Multiobjective Symbiotic-Organism Search (MOSOS), Multi-objective Evolutionary A
 Run-time. The simulation results demonstrated the superiority of the proposed algorithm in realizing high-quality solutions to all multi-objective problems, 
 including linear, nonlinear, continuous, and discrete Pareto optimal front. The results indicate the effectiveness of the proposed algorithm in solving 
 complicated multi-objective problems.
+
+Citation Format:
+
+M. Premkumar, Pradeep Jangir, R. Sowmya, Hassan Haes Alhelou, Ali Asghar Heidari, and Huiling Chen, "MOSMA: Multi-Objective Slime Mould Algorithm Based on Elitist Non-Dominated Sorting," IEEE Access, vol. 9, pp. 3229-3248, 2021.
